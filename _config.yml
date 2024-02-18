@@ -1,0 +1,30 @@
+title: 'Site Title'
+author:
+  name: 'Author Name'
+  email: ''
+description: >-
+
+url: "https://mysite.com"
+# logo: "/assets/img/site-logo.png"
+
+profile_picture: "/assets/img/profile-picture"
+github: username
+linkedin: username
+
+theme: sencilla
+timezone: "Europe/Amsterdam"
+date_format: "%b %-d, %Y"
+permalink: 'pretty'
+subscribe: false
+link-tags: true
+custom_head: true
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

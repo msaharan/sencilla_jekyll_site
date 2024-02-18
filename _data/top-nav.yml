@@ -1,0 +1,10 @@
+- navitem: Posts
+  subitems:
+    - subnavitem: All
+      url: posts
+    - subnavitem: Dummy
+      url: 
+- navitem: Pages
+  url: pages      
+- navitem: Tags
+  url: tags
